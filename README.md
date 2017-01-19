@@ -1,6 +1,6 @@
 # accessibility-gherkin
 
-These are a good baseline to understand how a keyboard user with a screen reader should be able to interact with portions of a webpage. These can be used by testers and/or developers.
+These are a good baseline to understand how a keyboard user with a screen reader should be able to interact with portions of a webpage. These can be used by testers and/or developers. Please send me pull requests for add or edits to this document.
 
 ## COMPONENTS
 
